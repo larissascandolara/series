@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.cadastro{
+    padding: 40px;
+    font-size: 60px;
+    color: white
+    
+}
+
+body{
+    
+    background-image: url(../img/netflix.png);
+    background-repeat: no-repeat;
+}
+
+button[type="button"]
+{
+    color: rgb(0, 0, 0);
+    background-color: rgb(247, 238, 238);
+    padding:15px 130px;
+    border: none;
+    text-align: center;
+}
+
+.caixa{
+    width: 6
+    0vw;
+    height:75vh;
+    margin: auto;
+    color: white;
+    text-align: center;
+    background-color: rgba(49, 48, 48, 0.6);
+    border-radius: 20px;
+    justify-content: center;
+}
+
+.titulo{
+    padding: 10px;
+    text-align: left;
+    font-size: 30px;
+}
+
+.epsodios{
+    font-size: 30px;
+    padding: 10px;
+    text-align: left;
+}
+.descricao{
+    font-size: 30px;
+    padding: 10px;
+    text-align: left;
+}
+.autor{
+    font-size: 30px;
+    padding: 10px;
+    text-align: left;
+}
+
+input {
+    padding: 10px 50px 10px 10px;
+    border-radius: 30px;
+}
+
